@@ -1,4 +1,8 @@
 I'm a git beginner now!
  
 "i am a git genius now" 
+<<<<<<< HEAD
 "i am a wizard" 
+=======
+"i am beginner" 
+>>>>>>> test
